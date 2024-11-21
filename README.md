@@ -1,5 +1,3 @@
-# <<<<<<< HEAD
-
 # Web Development Learning Project
 
 This repository contains the code for a website I built while following a [YouTube guide](https://www.youtube.com/watch?v=vcb-cEkE-UI&list=PLdYpxTDmoYR4sWKVI5UNUuoJFTCs6kYly&index=5). The project is aimed at enhancing my web development skills through hands-on practice and repetition.
