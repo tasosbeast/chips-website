@@ -203,6 +203,9 @@ img {
   left: 0;
 }
 /* Shadow header */
+.shadow-header {
+  box-shadow: 0 2px 16px hsla(0, 0%, 0%, 0.15);
+}
 
 /* Active link */
 
